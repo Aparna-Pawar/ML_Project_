@@ -3,6 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-#-e .
+#-e .  ##to trigger the setup.py file and gets the latest packages installed
 ipykernel
-##to trigger the setup.py file and gets the latest packages installed
