@@ -1,5 +1,8 @@
 pandas
 numpy
+matplotlib
 seaborn
--e .
+scikit-learn
+#-e .
+ipykernel
 ##to trigger the setup.py file and gets the latest packages installed
